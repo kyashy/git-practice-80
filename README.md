@@ -1,5 +1,4 @@
 # git-practice-80
-Repository for git practice.
 
 以下の書籍の実践用リポジトリ
 
